@@ -20,12 +20,15 @@
     width: 50%;
 }
 
-.logo img {
-    padding: 8px;
-    width: 30%;
-    margin-left: 10%;
+.logo {
+    float: left;
+    width: 50%;
+    border-radius: 50%;
 }
-
+ .logo-img {
+    border-radius: 50%;
+    object-fit: cover;
+}
 .nav_side {
     float: right;
     width: 45%;
