@@ -18,16 +18,17 @@
 .logo {
     float: left;
     width: 50%;
-}
-
-.logo {
-    float: left;
-    width: 50%;
     border-radius: 50%;
 }
  .logo-img {
     border-radius: 50%;
     object-fit: cover;
+}
+
+.logo img {
+    padding: 0px;
+    width: 10%;
+    margin-left: 10%;
 }
 .nav_side {
     float: right;
