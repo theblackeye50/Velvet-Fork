@@ -23,6 +23,7 @@ Mission: Provide extraordinary food experiences
 Customer Care: About Us | Summer Sale | Catering | Contact
 Documents: Privacy Policy | Terms of Use | Refund Policy
 Social Media & Contact Information
-Copyright © 2021 Culinary King
+Copyright © 2021 Velvet-Fork
  
+
 
